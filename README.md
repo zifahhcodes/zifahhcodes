@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zifahhcodes
-- 👀 I’m interested in software engineering, data analytics and other IT related fields
-- 🌱 I’m currently learning computer science in State University of Jakarta (UNJ)
+- 👀 2nd year computer science student in UNJ
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
